@@ -3,7 +3,8 @@
   "client_name": "Supernurse Copilot Studio Tableau Agent",
   "client_uri": "https://super-nurse.github.io/copilot-tableau-client/",
   "redirect_uris": [
-    "https://global.consent.azure-apim.net/redirect/cr2af-5ftableau-20mcp-20manual-5f3907727f0c2f9ba3"
+    "https://global.consent.azure-apim.net/redirect/cr2af-5ftableau-20mcp-20manual-5f3907727f0c2f9ba3",
+    "https://global.consent.azure-apim.net/redirect/new-5ftableau-20mcp-20relay-5f3907727f0c2f9ba3"
   ],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
