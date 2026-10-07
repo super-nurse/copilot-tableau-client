@@ -1,0 +1,2 @@
+# copilot-tableau-client
+CopilotエージェントがTableauにアクセスするための、CIMD方式の公開URL
